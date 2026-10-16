@@ -233,9 +233,18 @@ The mission is simple: build consistency, sharpen problem-solving skills, and pr
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0061-rotate-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0061-rotate-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
