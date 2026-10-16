@@ -227,3 +227,15 @@ The mission is simple: build consistency, sharpen problem-solving skills, and pr
 <p align="center">
   <i>Made with C++, curiosity, and a little pirate spirit.</i>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0061-rotate-list/) | Medium |
+<!---LeetCode Topics End-->
