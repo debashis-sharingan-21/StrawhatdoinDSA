@@ -238,6 +238,7 @@ The mission is simple: build consistency, sharpen problem-solving skills, and pr
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0061-rotate-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -247,4 +248,16 @@ The mission is simple: build consistency, sharpen problem-solving skills, and pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
