@@ -265,8 +265,13 @@ The mission is simple: build consistency, sharpen problem-solving skills, and pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0069-sqrtx/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0069-sqrtx/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/debashis-sharingan-21/StrawhatdoinDSA/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
